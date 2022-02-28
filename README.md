@@ -20,3 +20,12 @@ slp - the slope of the peak exercise ST segment (0 = downsloping; 1 = flat; 2 = 
 caa - number of major vessels (0-4) colored by flourosopy              
 thall - thallium stress test (1 = fixed defect; 2 = reversable defect; 3 = normal)                
 output - 0 = less chance of heart attack; 1 = more chance of heart attack            
+# Steps Followed
+1. Dataset collection
+2. Performed EDA  : Handled Outliers, Deleted duplicate rows, visualization and Feature scaling.  
+3. Created 7 Classification Models : Logistic Regression, KNN, Decision Tree, SVM, Random Forest, Navie Bayes, XGBoost.
+4. Performed comparative analysis on the techniques used and build the model based on the best score.
+
+
+
+

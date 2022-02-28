@@ -3,7 +3,7 @@ To predict whether a person will suffer from heart attack or not.
 # Objectives
 To predict the probability of suffering of any patient from heart attacks in the upcoming future.  
 To exploit machine learning techniques on medical data set to assist in the prediction of heart attack.           
-Identify the major factors influencing heart attacks. 
+Identify the major factors influencing heart attack. 
 # Dataset
 The dataset is taken from kaggle, https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
@@ -24,7 +24,7 @@ thall - thallium stress test (1 = fixed defect; 2 = reversable defect; 3 = norma
 output - 0 = less chance of heart attack; 1 = more chance of heart attack            
 # Steps Followed
 1. Dataset collection
-2. Performed EDA  : Handled Outliers, Deleted duplicate rows, visualization and Feature scaling.  
+2. Performed EDA  : Handled Outliers , Deleted duplicate rows, visualization and Feature scaling.  
 3. Created 7 different Classification Models : Logistic Regression, KNN, Decision Tree, SVM, Random Forest, Navie Bayes, XGBoost.
 4. Performed comparative analysis on the techniques used and build the model based on the best score.
 

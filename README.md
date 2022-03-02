@@ -29,6 +29,10 @@ output - 0 = less chance of heart attack; 1 = more chance of heart attack
 4. Performed comparative analysis on the techniques used and build the model based on the best score.
 
 # Visualization
+![image](https://user-images.githubusercontent.com/95580124/156319276-0b205b8f-45b0-4997-9f73-97d7f135e367.png)
+
+![image](https://user-images.githubusercontent.com/95580124/156319348-eff50d66-b8b1-4fab-82bf-5971801b352d.png)
+
 ![image](https://user-images.githubusercontent.com/95580124/156310883-5d0e1e90-178c-4c46-a55c-3653a90d0d55.png)
 
 

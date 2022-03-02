@@ -33,7 +33,7 @@ output - 0 = less chance of heart attack; 1 = more chance of heart attack
 2. Visualisation: seaborn, matplotlib
 3. Feature scaling: StandardScaler
 4. Splitting to train and test: train_test_split
-5. Accuracy calculation : metrics
+5. Accuracy calculation : metrics,confusion_matrix,accuracy_score,roc_curve,classification_report
 6. Algorithms: DecisionTreeClassifier, RandomForestClassifier, svm, KNeighborsClassifier, LogisticRegression, GaussianNB, XGBClassifier
 
 

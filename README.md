@@ -28,6 +28,11 @@ output - 0 = less chance of heart attack; 1 = more chance of heart attack
 3. Created 7 different Classification Models : Logistic Regression, KNN, Decision Tree, SVM, Random Forest, Navie Bayes, XGBoost.
 4. Performed comparative analysis on the techniques used and build the model based on the best score.
 
+# Visualization
+![image](https://user-images.githubusercontent.com/95580124/156310883-5d0e1e90-178c-4c46-a55c-3653a90d0d55.png)
+
+
+
 # Libraries used
 1. Data Cleaning: numpy, pandas
 2. Visualisation: seaborn, matplotlib

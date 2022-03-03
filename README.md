@@ -32,8 +32,6 @@ output - 0 = less chance of heart attack; 1 = more chance of heart attack
 
 ![image](https://user-images.githubusercontent.com/95580124/156506149-5e4ea264-2896-493d-8ece-8c73f2557fa5.png)
 
-![image](https://user-images.githubusercontent.com/95580124/156506197-ac34fd29-7e7a-4570-abc4-8f6b641e48f4.png)
-
 ![image](https://user-images.githubusercontent.com/95580124/156508499-cf0addfa-acb4-4f06-8aac-bcf78478e520.png)
 
 

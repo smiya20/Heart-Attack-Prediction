@@ -32,16 +32,17 @@ output - 0 = less chance of heart attack; 1 = more chance of heart attack
 
 ![image](https://user-images.githubusercontent.com/95580124/156506149-5e4ea264-2896-493d-8ece-8c73f2557fa5.png)
 
-![image](https://user-images.githubusercontent.com/95580124/156518084-eed19f3f-0472-4d0b-9c31-1948409424f9.png)
+![image](https://user-images.githubusercontent.com/95580124/156631218-9b35bf54-edc8-4b26-85ec-e9ece23f4668.png)
 
+![image](https://user-images.githubusercontent.com/95580124/156631253-5a47933d-385a-4bf6-a5cd-b0bce543e95c.png)
 
 
 # Libraries used
 1. Data Cleaning: numpy, pandas
 2. Visualisation: seaborn, matplotlib
-3. Feature scaling: StandardScaler
+3. Feature scaling: MinMaxScaler
 4. Splitting to train and test: train_test_split
-5. Accuracy calculation & confusion matixs: metrics,confusion_matrix,accuracy_score,roc_curve,classification_report
+5. Accuracy calculation & confusion matixs: metrics,confusion_matrix,accuracy_score,precision_score,recall_score,f1_score
 6. Algorithms: DecisionTreeClassifier, RandomForestClassifier, svm, KNeighborsClassifier, LogisticRegression, GaussianNB, XGBClassifier
 
 

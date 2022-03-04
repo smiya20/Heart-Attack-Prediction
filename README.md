@@ -19,7 +19,7 @@ thalachh - maximum heart rate achieved
 exng - exercise induced angina (0 = no; 1 = yes)                         
 oldpeak - ST depression induced by exercise relative to rest                       
 slp - the slope of the peak exercise ST segment (0 = downsloping; 1 = flat; 2 = upsloping)              
-caa - number of major vessels (0-4) colored by flourosopy              
+caa - number of major vessels (0-4)             
 thall - thallium stress test (1 = fixed defect; 2 = reversable defect; 3 = normal)                
 output - 0 = less chance of heart attack; 1 = more chance of heart attack            
 # Steps Followed

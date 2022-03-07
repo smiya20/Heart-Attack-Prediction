@@ -32,9 +32,9 @@ output - 0 = less chance of heart attack; 1 = more chance of heart attack
 
 ![image](https://user-images.githubusercontent.com/95580124/156964038-6382a59e-63b5-4764-8fe5-d46f76a924e0.png)
 
-![image](https://user-images.githubusercontent.com/95580124/156709823-65af0b4c-068b-48f0-80d4-797d80a5029c.png)
+![image](https://user-images.githubusercontent.com/95580124/156967363-2e479566-04ae-42c6-8461-ea18af2c471c.png)
 
-![image](https://user-images.githubusercontent.com/95580124/156709840-c8e5d6dc-9291-462a-9531-ccd59cbb8596.png)
+![image](https://user-images.githubusercontent.com/95580124/156967383-8dc75d41-62f9-4631-a100-5c7db066044e.png)
 
 
 # Libraries used

@@ -19,7 +19,7 @@ thalachh - maximum heart rate achieved
 exng - exercise induced angina (0 = no; 1 = yes)                         
 oldpeak - ST depression induced by exercise relative to rest                       
 slp - the slope of the peak exercise ST segment (0 = downsloping; 1 = flat; 2 = upsloping)              
-caa - number of major vessels (0-4)             
+caa - number of major vessels (0-4) colored by flourosopy          
 thall - thallium stress test (1 = fixed defect; 2 = reversable defect; 3 = normal)                
 output - 0 = less chance of heart attack; 1 = more chance of heart attack            
 # Methodologies
@@ -30,7 +30,7 @@ output - 0 = less chance of heart attack; 1 = more chance of heart attack
 
 # Visualization
 
-![image](https://user-images.githubusercontent.com/95580124/156506149-5e4ea264-2896-493d-8ece-8c73f2557fa5.png)
+![image](https://user-images.githubusercontent.com/95580124/156964038-6382a59e-63b5-4764-8fe5-d46f76a924e0.png)
 
 ![image](https://user-images.githubusercontent.com/95580124/156709823-65af0b4c-068b-48f0-80d4-797d80a5029c.png)
 
@@ -44,5 +44,6 @@ output - 0 = less chance of heart attack; 1 = more chance of heart attack
 4. Splitting to train and test: train_test_split
 5. Accuracy calculation & confusion matixs: metrics,confusion_matrix,accuracy_score,precision_score,recall_score,f1_score
 6. Algorithms: DecisionTreeClassifier, RandomForestClassifier, svm, KNeighborsClassifier, LogisticRegression, GaussianNB, XGBClassifier
+
 
 
